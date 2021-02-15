@@ -1,0 +1,2007 @@
+,rank,player_id,rank_points,name
+0,1,104925,12030,Novak Djokovic
+1,2,104745,9850,Rafael Nadal
+2,3,106233,9125,Dominic Thiem
+3,4,106421,8470,Daniil Medvedev
+4,5,103819,6630,Roger Federer
+5,6,126774,5940,Stefanos Tsitsipas
+6,7,100644,5615,Alexander Zverev
+7,8,126094,4164,Andrey Rublev
+8,9,106043,3455,Diego Sebastian Schwartzman
+9,10,126610,3085,Matteo Berrettini
+10,11,104792,2860,Gael Monfils
+11,12,133430,2830,Denis Shapovalov
+12,13,105138,2710,Roberto Bautista Agut
+13,14,105683,2580,Milos Raonic
+14,15,105807,2580,Pablo Carreno Busta
+15,16,105676,2555,David Goffin
+16,17,104926,2400,Fabio Fognini
+17,18,104527,2365,Stanislas Wawrinka
+18,19,105777,2260,Grigor Dimitrov
+19,20,111575,2245,Karen Khachanov
+20,21,200000,2241,Felix Auger Aliassime
+21,22,106426,2180,Christian Garin
+22,23,200282,1860,Alex De Minaur
+23,24,106432,1855,Borna Coric
+24,25,104545,1850,John Isner
+25,26,105583,1785,Dusan Lajovic
+26,27,134770,1739,Casper Ruud
+27,28,105332,1738,Benoit Paire
+28,29,126203,1695,Taylor Harry Fritz
+29,30,105936,1673,Filip Krajinovic
+30,31,200005,1671,Ugo Humbert
+31,32,105554,1589,Daniel Evans
+32,33,132283,1588,Lorenzo Sonego
+33,34,105173,1561,Adrian Mannarino
+34,35,128034,1518,Hubert Hurkacz
+35,36,206173,1464,Jannik Sinner
+36,37,105526,1450,Jan Lennard Struff
+37,38,105357,1421,John Millman
+38,39,124187,1402,Reilly Opelka
+39,40,105932,1395,Nikoloz Basilashvili
+40,41,105453,1345,Kei Nishikori
+41,42,200175,1328,Miomir Kecmanovic
+42,43,105227,1325,Marin Cilic
+43,44,105550,1310,Guido Pella
+44,45,105077,1210,Albert Ramos
+45,46,106401,1170,Nick Kyrgios
+46,47,104755,1155,Richard Gasquet
+47,48,106378,1095,Kyle Edmund
+48,49,122330,1090,Alexander Bublik
+49,50,105815,1088,Tennys Sandgren
+50,51,111442,1084,Jordan Thompson
+51,52,126205,1080,Tommy Paul
+52,53,200221,1078,Alejandro Davidovich Fokina
+53,54,105916,1072,Marton Fucsovics
+54,55,111513,1068,Laslo Djere
+55,56,105023,1065,Sam Querrey
+56,57,106415,1062,Yoshihito Nishioka
+57,58,105379,1055,Aljaz Bedene
+58,59,104665,1044,Pablo Andujar
+59,60,104542,1015,Jo Wilfried Tsonga
+60,61,105577,1013,Vasek Pospisil
+61,62,126207,1005,Francis Tiafoe
+62,63,103852,998,Feliciano Lopez
+63,64,104468,990,Gilles Simon
+64,65,104269,985,Fernando Verdasco
+65,66,136440,931,Dominik Koepfer
+66,67,106210,928,Jiri Vesely
+67,68,104655,927,Pablo Cuevas
+68,69,105575,889,Ricardas Berankis
+69,70,106218,884,Marcos Giron
+70,71,106298,880,Lucas Pouille
+71,72,104871,880,Jeremy Chardy
+72,73,105449,880,Steve Johnson
+73,74,111815,877,Cameron Norrie
+74,75,105882,869,Stefano Travaglia
+75,76,106099,858,Salvatore Caruso
+76,77,105643,851,Federico Delbonis
+77,78,106078,840,Egor Gerasimov
+78,79,106065,838,Marco Cecchinato
+79,80,144895,838,Corentin Moutet
+80,81,106228,832,Juan Ignacio Londero
+81,82,104731,825,Kevin Anderson
+82,83,105732,822,Pierre Hugues Herbert
+83,84,106329,820,Thiago Monteiro
+84,85,105430,817,Radu Albot
+85,86,124079,810,Pedro Martinez Portero
+86,87,200325,806,Emil Ruusuvuori
+87,88,105613,797,Norbert Gombos
+88,89,105062,796,Mikhail Kukushkin
+89,90,144750,793,Lloyd George Muirhead Harris
+90,91,105948,783,Federico Coria
+91,92,105311,782,Joao Sousa
+92,93,105226,779,Attila Balazs
+93,94,144707,775,Mikael Ymer
+94,95,126952,768,Soon Woo Kwon
+95,96,106148,751,Roberto Carballes Baena
+96,97,104259,749,Philipp Kohlschreiber
+97,98,110602,737,Dennis Novak
+98,99,105870,736,Yannick Hanfmann
+99,100,105413,734,Andrej Martin
+100,901,125800,15,Jack Findel Hawkins
+101,902,132575,15,Raphael Baltensperger
+102,903,200565,15,Cengiz Aksu
+103,904,126335,15,Sora Fukuda
+104,905,200366,15,Olukayode Alafia Damina Ayeni
+105,906,206467,15,Federico Arnaboldi
+106,907,208265,15,Pierre Delage
+107,908,208931,15,Toby Alex Kodat
+108,909,200259,15,Ugo Blanchet
+109,910,144650,15,Rhett Purcell
+110,911,126528,15,Julian Bradley
+111,912,208158,15,Dominik Palan
+112,913,207704,15,Alex Marti Pujolras
+113,914,105545,15,Mikhail Fufygin
+114,915,108705,15,Anis Ghorbel
+115,916,106022,14,Matej Sabanov
+116,917,200036,14,Abhinav Sanjeev Shanmugam
+117,918,111163,14,Vlad Victor Cornea
+118,919,207220,14,Taha Baadi
+119,920,208191,14,Zachary Eisinga
+120,921,207992,14,Cannon Kingsley
+121,922,123858,14,Antonio Massara
+122,923,111801,14,Rishab Agarwal
+123,924,208209,14,Giacomo Dambrosi
+124,925,138846,14,Hong Kit Jack Wong
+125,926,106396,14,Cheng Yu Yu
+126,927,207502,14,Stefan Palosi
+127,928,122609,14,Yuanfeng Li
+128,929,202128,14,Louis Dussin
+129,930,207408,14,Niklas Guttau
+130,931,105874,14,Albano Olivetti
+131,932,132741,14,Albert Roglan
+132,933,207412,14,Sidane Pontjodikromo
+133,934,206448,13,Daniel Rodrigues
+134,935,208143,13,Garrett Johns
+135,936,144874,13,Ryan James Storrie
+136,937,209260,13,Luciano Darderi
+137,938,106333,13,Julien Cagnina
+138,939,138821,13,Timo Stodder
+139,940,208125,13,Sumit Sarkar
+140,941,106074,13,Jung Woong Na
+141,942,126760,13,Christian Samuelsson
+142,943,105917,13,Gianni Mina
+143,944,208147,13,Alexandre Aubriot
+144,1878,208147,1,Alexandre Aubriot
+145,945,200217,13,Jacob Dunbar
+146,946,110762,13,Alan Kohen
+147,947,126441,13,Marco Brugnerotto
+148,948,200442,13,Dostanbek Tashbulatov
+149,949,208527,13,Zane Khan
+150,950,207785,13,George Loffhagen
+151,951,208055,13,Ajeet Rai
+152,952,134405,13,Koray Kirci
+153,953,200345,13,Valentin Guenther
+154,954,207419,13,Matvey Minin
+155,955,111172,13,Hugo Schott
+156,956,105996,13,Alex Blumenberg
+157,957,200207,13,Simon Anthony Ivanov
+158,958,126170,13,Timur Kiuamov
+159,959,133997,13,Sergi Perez Contri
+160,960,202065,13,Petros Tsitsipas
+161,961,104672,12,Vincent Millot
+162,962,106196,12,Pascal Meis
+163,963,134786,12,Pierre Faivre
+164,964,202154,12,Uisung Park
+165,965,208233,12,Mattia Bellucci
+166,966,106388,12,Pak Long Yeung
+167,967,208065,12,Marius Ruzgas
+168,968,132299,12,Saidalo Saidkarimov
+169,969,123929,12,Luca Gelhardt
+170,970,124141,12,Franco Feitt
+171,971,134329,12,Blake Ellis
+172,972,202247,12,Simon Beaupain
+173,973,133857,12,Maxime Mora
+174,974,200383,12,Maxime Pauwels
+175,975,106250,12,Luis Patino
+176,976,200013,12,Mirko Martinez
+177,977,200607,11,Samuele Ramazzotti
+178,978,208253,11,Niels Visker
+179,979,209302,11,Peter Fajta
+180,980,200291,11,Andrea Bolla
+181,981,208859,11,Francesco Passaro
+182,982,134068,11,Vadym Ursu
+183,983,120922,11,Maciej Rajski
+184,984,207993,11,Justin Boulais
+185,985,105934,11,Chuhan Wang
+186,986,209191,11,Oleksandr Ovcharenko
+187,987,209209,11,Filip Misolic
+188,988,106138,11,Yaraslau Shyla
+189,989,202299,11,Rimpei Kawakami
+190,990,202146,11,Luka Pavlovic
+191,991,132535,11,William Bushamuka
+192,992,144823,11,Luca Tomasetto
+193,993,200538,11,Matyas Fuele
+194,994,133841,11,Bart Van Den Berg
+195,995,133794,11,S D Prajwal Dev
+196,996,202328,11,Dhruv Sunish
+197,997,138596,11,Kalman L Boyd
+198,998,208286,11,Harry Thursfield
+199,999,126328,11,Gabriel Donev
+200,1000,207729,11,Tristan Boyer
+201,1001,200132,11,Petr Hajek
+202,1002,144915,11,Mikalai Haliak
+203,1002,106016,11,Yanais Laurent
+204,1004,134318,11,Cameron Green
+205,1005,134545,11,Alexis Canter
+206,1006,110773,11,Issei Okamura
+207,1007,129811,11,Oleg Khotkov
+208,1008,104229,10,Yen Hsun Lu
+209,1009,105154,10,Joao Souza
+210,1010,120545,10,Ko Suzuki
+211,1011,131999,10,Kyle Seelig
+212,1012,200665,10,Yuta Kawahashi
+213,1013,202353,10,Will Maher
+214,1014,208491,10,Filip Kolasinski
+215,1015,126973,10,David Fox
+216,1016,106191,10,Mick Lescure
+217,1017,104998,10,Michael Shabaz
+218,1018,106085,10,Hamid Reza Nadaf
+219,1019,207487,10,Egor Noskin
+220,1020,133301,10,Giovani Samaha
+221,1021,105621,10,Min Kyu Song
+222,1022,209143,10,Matthew Mendez
+223,1022,133471,10,Alejo Vilaro
+224,1024,122678,10,Matic Spec
+225,1025,106129,10,Dragos Constantin Ignat
+226,1026,208104,10,Andrea Picchione
+227,1027,106412,10,Lucas Gomez
+228,1028,126508,10,Florian Lakat
+229,1029,202200,10,Jakob Aichhorn
+230,1030,144696,10,Zihao Xia
+231,1031,124074,10,Kazuma Kawachi
+232,1031,208937,10,Kasidit Samrej
+233,1033,106391,10,Adrian Bodmer
+234,1034,134256,10,Reese Stalder
+235,1035,200639,10,Luigi Sorrentino
+236,1036,202108,10,Tyler Mercier
+237,1037,105598,10,Peter Goldsteiner
+238,1038,207985,9,Jacob Fearnley
+239,1039,132437,9,Logan Smith
+240,1040,103926,9,Daniel Munoz De La Nava
+241,1041,144751,9,Rigele Te
+242,1042,208865,9,Drew Baird
+243,1043,105515,9,Jordi Samper Montana
+244,1043,110686,9,Finn Tearney
+245,1043,209882,9,Jeffrey Von Der Schulenburg
+246,1046,106064,9,Lucas Renard
+247,1047,127954,9,Joao Hinsching
+248,1048,202147,9,Florent Bax
+249,1049,105984,9,Seong Gook Oh
+250,1050,132374,9,Jesse Flores
+251,1051,209279,9,Terence Atmane
+252,1052,207988,9,Francisco Andreu Garcia
+253,1053,207139,9,Palaphoom Kovapitukted
+254,1054,105986,9,Colin Van Beem
+255,1055,207434,9,Lucas Hellfritsch
+256,1056,208078,9,Tomas Farjat
+257,1057,209128,9,Diego Augusto Barreto Sanchez
+258,1058,202052,9,Ray Ho
+259,1059,200562,9,Anirudh Chandrasekar
+260,1060,200006,9,Hugo Pontico
+261,1061,202338,9,Mattia Frinzi
+262,1062,207732,9,Miguel Damas
+263,1062,126219,9,Joshua Paris
+264,1064,200681,9,Adil Kalyanpur
+265,1065,132067,9,Aron Pierce
+266,1066,207670,9,Tom Pisane
+267,1067,123736,9,Sagadat Ayap
+268,1068,123932,9,Isaac Stoute
+269,1069,111568,9,Michael Zhu
+270,1070,111739,9,Maksim Tikhomirov
+271,1071,208819,8,Max Hans Rehberg
+272,1072,208019,8,Ryohei Tagata
+273,1073,209866,8,Karlis Ozolins
+274,1074,105114,8,Dejan Katic
+275,1075,106406,8,Alon Elia
+276,1076,207568,8,Baran Cengiz
+277,1077,105851,8,Florent Diep
+278,1077,131933,8,Alexandre Peyrot
+279,1079,200277,8,Charles Broom
+280,1079,206305,8,Tanner K Smith
+281,1081,200598,8,Isaiah Strode
+282,1082,200398,8,Juan Carlos Manuel Aguilar
+283,1083,207664,8,Luca Staeheli
+284,1084,207893,8,Daniel De Jonge
+285,1084,209142,8,Sebastian Gima
+286,1086,207535,8,Marlon Vankan
+287,1087,105508,8,Vasile Antonescu
+288,1088,200541,8,Filip Duda
+289,1089,207659,8,Aaron Schmid
+290,1090,105043,8,Marek Semjan
+291,1090,111201,8,Christoffer Solberg
+292,1092,208057,8,Diego Fernandez Flores
+293,1093,106149,8,Maciej Smola
+294,1094,121920,8,Timur Khabibulin
+295,1095,126272,8,Aj Catanzariti
+296,1096,202334,8,Jesse Delaney
+297,1097,200671,8,Daisuke Sumizawa
+298,1098,132124,8,Aaron Addison
+299,1099,202348,8,Karlo Cubelic
+300,1100,144909,8,Francisco Cabral
+301,1101,134429,8,Manfred Fellin
+302,1102,200315,8,Gorazd Srbljak
+303,1103,200455,8,Aliaksandr Liaonenka
+304,1104,208858,8,Pavel Shumeiko
+305,1105,105589,7,Gerald Melzer
+306,1106,123827,7,Samuel Bensoussan
+307,1107,200416,7,August Holmgren
+308,1108,208041,7,Ronan Jachuck
+309,1109,206886,7,Amadatus Admiraal
+310,1110,106206,7,Jea Moon Lee
+311,1111,105791,7,Mauricio Astorga
+312,1112,104746,7,Vincent Stouff
+313,1113,202400,7,Alastair Gray
+314,1114,208649,7,Andrew Fenty
+315,1115,126372,7,Adrian Andrzejczuk
+316,1115,208467,7,Alexander Kotzen
+317,1117,209322,7,Martin Krumich
+318,1117,133068,7,Haitong Xia
+319,1119,208876,7,Egor Agafonov
+320,1120,126556,7,Wei De Lin
+321,1121,207212,7,Karlo Kranic
+322,1122,132121,7,Jai Corbett
+323,1123,106181,7,Felipe Mantilla
+324,1124,108739,7,Wilfredo Gonzalez
+325,1125,126432,7,Yankel Zemel
+326,1126,208269,7,Felix Gill
+327,1127,209259,7,Arthur Fery
+328,1127,121669,7,Sergio Martos Gornes
+329,1129,208861,7,Keisuke Saitoh
+330,1129,144925,7,Nitin Kumar Sinha
+331,1131,200640,7,Lucas Vuradin
+332,1132,208003,7,Bekkhan Atlangeriev
+333,1132,208092,7,Filippo Moroni
+334,1134,126119,7,Goran Markovic
+335,1135,208126,7,John Echeverria
+336,1136,207389,7,Nini Gabriel Dica
+337,1136,123807,7,Marek Jaloviec
+338,1138,208127,7,Grey Hamilton
+339,1139,131866,7,Hendrik Jebens
+340,1140,144726,7,Shao Fan Liu
+341,1141,144918,7,Edoardo Lavagno
+342,1142,207884,7,Arthur Bouquier
+343,1143,200205,7,Valentin Vanta
+344,1144,202281,7,Lukas Krainer
+345,1145,207592,7,Martin Van Der Meerschen
+346,1146,105494,7,Adelchi Virgili
+347,1147,132434,7,Errol Smith
+348,1148,122311,7,Darko Jandric
+349,1148,200276,7,Niklas Schell
+350,1150,131888,7,Domagoj Biljesko
+351,1150,127189,7,Li Wie Tan
+352,1152,105557,7,Gibril Diarra
+353,1153,105450,7,Mike Urbanija
+354,1154,207249,7,Alexandros Skorilas
+355,1155,105844,7,Joffrey De Schepper
+356,1156,126200,7,Piotr Grynkowski
+357,1157,105593,6,Yannick Vandenbulcke
+358,1157,200443,6,Adam Walton
+359,1159,209043,6,Yuta Kikuchi
+360,1160,122051,6,Oleg Dolgosheyev
+361,1161,105429,6,Scott Puodziunas
+362,1162,200643,6,Jurgen Briand
+363,1162,202096,6,Yair Sarouk
+364,1162,106395,6,Igor Smilansky
+365,1165,105502,6,N Sriram Balaji
+366,1165,208389,6,James Trotter
+367,1167,209851,6,Henry Patten
+368,1167,144935,6,Dalwinder Singh
+369,1169,208502,6,Dominic Stephan Stricker
+370,1170,200108,6,Matej Vocel
+371,1171,105737,6,Kaza Vinayak Sharma
+372,1172,105335,6,Sho Katayama
+373,1173,208411,6,Daniel Antonio Nunez
+374,1174,104251,6,Ti Chen
+375,1175,200336,6,Trent Bryde
+376,1175,127028,6,Tom Fawcett
+377,1177,200703,6,Bogdan Pavel
+378,1178,200234,6,Joshua Peck
+379,1179,144814,6,Eero Vasa
+380,1180,208240,6,Alexandr Binda
+381,1180,124167,6,Vaughn Hunter
+382,1182,200310,6,Alexander Zgirovsky
+383,1183,202307,6,Alejandro Garcia
+384,1184,208882,6,Roman Andres Burruchaga
+385,1185,122055,6,Haadin Bava
+386,1185,205887,6,Giovanni Calvano
+387,1187,109732,6,Enrique Bogo
+388,1187,207835,6,Michael John Every
+389,1189,105700,6,Jose Pereira
+390,1190,122520,6,Paul Cayre
+391,1190,105331,6,Petru Alexandru Luncanu
+392,1192,202158,6,Nicolas Uryson
+393,1193,208923,6,Octavio Volpi
+394,1194,133667,6,Congsup Congcar
+395,1195,126492,6,Marc Dijkhuizen
+396,1195,208300,6,Omni Kumar
+397,1197,132712,6,Aleksei Khomich
+398,1198,208874,6,Seita Watanabe
+399,1199,132958,6,George Botezan
+400,1200,202315,6,Tomas Liska
+401,1200,202124,6,Kousuke Ogura
+402,1202,126613,6,Bogdan Borza
+403,1203,200495,6,Eduardo Ribeiro
+404,1204,111452,6,James Frawley
+405,1205,105001,5,Mao Xin Gong
+406,1206,105172,5,Miliaan Niesten
+407,1207,105790,5,Yong Kyu Lim
+408,1207,209406,5,Abedallah Shelbayh
+409,1209,207418,5,Alexander Knight
+410,1209,126443,5,Gregorio Lulli
+411,1211,207231,5,Mathys Erhard
+412,1212,126551,5,Leonardo Civita Telles
+413,1213,200434,5,Santiago Besada
+414,1213,126108,5,Julian Cash
+415,1213,200332,5,Felipe Martinez Sarrasague
+416,1216,137762,5,Lasse Muscheites
+417,1217,104903,5,Andre Miele
+418,1218,126502,5,Luis Diego Chavez Villalpando
+419,1218,111509,5,Spencer Papa
+420,1218,208118,5,Eliot Spizzirri
+421,1218,105440,5,Arsenije Zlatanovic
+422,1222,123944,5,Max Andrews
+423,1222,121773,5,Milen Ianakiev
+424,1222,202155,5,Yeongseok Jeong
+425,1225,207294,5,Roman Blokhin
+426,1225,208279,5,Alejandro Moro Canas
+427,1227,126449,5,Marco Mosciatti
+428,1228,202439,5,Sean Hodkin
+429,1228,207796,5,Vladislav Ivanov
+430,1230,205941,5,Rishi Reddy
+431,1231,208384,5,Siddanth Banthia
+432,1231,200253,5,Alejandro Hoyos Franco
+433,1231,207407,5,Peter Makk
+434,1231,144733,5,Benard Bruno Nkomba
+435,1235,105880,5,Filipe Brandao
+436,1236,133684,5,Hao Wu
+437,1237,208025,5,Alex Martinez
+438,1238,202324,5,Maxence Broville
+439,1239,144666,5,Wei Qiang Zheng
+440,1240,134113,5,Cing Yang Meng
+441,1241,105130,5,Vladimir Uzhylovsky
+442,1242,208277,5,Taiyo Yamanaka
+443,1243,207506,5,Gabriel Ciro Da Silva
+444,1244,200372,5,Alen Rogic Hadzalic
+445,1245,200062,5,Boris Fassbender
+446,1245,124099,5,Mohamed Nazim Makhlouf
+447,1245,207173,5,Timur Maulenov
+448,1248,127334,5,Mirko Cutuli
+449,1249,206853,5,Alessandro Coppini
+450,1250,205883,5,Tim Heger
+451,1251,200331,5,Leonardo Aboian
+452,1251,207606,5,Yannik Steinegger
+453,1253,200487,5,Jordan Hasson
+454,1254,202272,5,Niklas Johansson
+455,1254,105662,5,Tomislav Jotovski
+456,1256,200692,5,Herbert Jody Maginley
+457,1257,110468,4,Romain Barbosa
+458,1257,126166,4,Szymon Walkow
+459,1257,208296,4,Siem Woldeab
+460,1260,205690,4,Chad Kissell
+461,1260,144940,4,Mattias Siimar
+462,1260,105503,4,George Von Massow
+463,1263,124051,4,Yuya Ito
+464,1264,134782,4,Louis Lechevretel
+465,1265,209140,4,Millen Hurrion
+466,1266,133863,4,Benedikt Henning
+467,1266,105467,4,Jordi Munoz Abreu
+468,1268,126590,4,Karol Drzewiecki
+469,1268,104643,4,Alexander Pavlioutchenkov
+470,1268,106264,4,Karue Sell
+471,1271,208267,4,Oscar Weightman
+472,1272,105990,4,Francisco Dias
+473,1272,120998,4,Young Hoon Jeong
+474,1272,209355,4,Timo Legout
+475,1272,208109,4,Shamael Chaudhry
+476,1276,138688,4,Milan Drinic
+477,1276,208352,4,Preston Touliatos
+478,1278,206818,4,Christian Oliveira
+479,1278,207557,4,Maik Steiner
+480,1280,209131,4,Eliakim Coulibaly
+481,1281,105161,4,Yann Marti
+482,1282,200142,4,Kareem Allaf
+483,1283,207812,4,Charl Morgan
+484,1284,111582,4,Jared Hiltzik
+485,1285,121896,4,Gabor Borsos
+486,1285,206075,4,Patrik Hartmeier
+487,1285,208485,4,Kiranpal Pannu
+488,1285,202231,4,Sergei Pogosian
+489,1285,208342,4,Tyler Zink
+490,1290,206805,4,Luciano Carraro
+491,1290,201970,4,Glenn Smits
+492,1292,207295,4,Olimjon Nabiev
+493,1293,207308,4,Juan Ignacio Alcalde
+494,1293,144678,4,Vasko Mladenov
+495,1293,209362,4,Aristotelis Thanos
+496,1296,132165,4,Luis Humberto Lopez
+497,1297,208370,4,Keenan Mayo
+498,1298,144955,4,Yuichiro Inui
+499,1298,208713,4,Jose Joaquin Miranda Cisneros
+500,1298,207784,4,Harry Wendelken
+501,1301,106160,4,Aliaksandr Bulitski
+502,1301,207484,4,Neil Oberleitner
+503,1303,132609,4,Nicholas Bybel
+504,1303,208243,4,Seon Yong Han
+505,1303,133475,4,Federico Moreno
+506,1303,207929,4,Marco Saffratti
+507,1303,105670,4,Karunuday Singh
+508,1308,207607,4,Alberto Colas Sanchez
+509,1308,106195,4,Naoki Takeda
+510,1308,126715,4,Fernando Yamacita
+511,1311,208573,4,Muthu Aadhitiya Senthilkumar
+512,1312,202192,4,Kuzey Cekirge
+513,1312,132088,4,Nicholas Alexander Reyes
+514,1312,208259,4,Viacheslav Yulik
+515,1315,144970,4,Constantin Bittoun Kouzmine
+516,1316,109694,4,Pedro Araujo
+517,1316,206157,4,Nicolas Bianchi
+518,1316,117359,4,Jake Delaney
+519,1316,126570,4,William Griffith
+520,1316,144747,4,Courtney John Lock
+521,1316,200268,4,Afonso Salgado
+522,1316,134767,4,Sam Taylor
+523,1323,207277,4,Illia Biloborodko
+524,1323,208178,4,Samuel Brosset
+525,1325,127466,4,Conor Berg
+526,1325,104822,4,N Vijay Sundar Prashanth
+527,1327,207461,4,Mousa Alkotop
+528,1327,207854,4,Jayden Court
+529,1327,105102,4,Goncalo Falcao
+530,1327,106061,4,Pavel Krainik
+531,1327,132123,4,Chanchai Sookton Eng
+532,1332,106012,4,Kunal Anand
+533,1332,200197,4,Boris Butulija
+534,1334,202279,4,Leopold Zima
+535,1335,126748,4,Juan Pablo Canas Garcia
+536,1336,200456,4,Martin Borisiouk
+537,1336,200080,4,Puriwat Chatpatcharoen
+538,1338,206225,4,Fabio Coelho
+539,1338,125838,4,Mikhail Korovin
+540,1338,207343,4,Hanyi Liu
+541,1341,105245,3,Fabiano De Paula
+542,1341,207162,3,Lukas Greif
+543,1341,208736,3,Yasunori Hashikawa
+544,1341,134383,3,Jakob Schnaitter
+545,1341,105721,3,Chandril Sood
+546,1346,200687,3,Kai Breitbach
+547,1346,105677,3,Nikola Cacic
+548,1346,200368,3,Jack Mingjie Lin
+549,1346,103781,3,Jurgen Melzer
+550,1346,200233,3,Nicaise Muamba
+551,1351,123961,3,Murkel Alejandro Dellien Velasco
+552,1352,125806,3,Dominik Kellovsky
+553,1352,202167,3,Tyler Lu
+554,1352,133014,3,Enzo Wallart
+555,1355,209098,3,Hamad Medjedovic
+556,1355,126437,3,Oscar Mesquida Berg
+557,1355,122612,3,Sung Jun Park
+558,1355,133177,3,Robin Thour
+559,1359,208925,3,John Hallquist Lithen
+560,1359,207232,3,Loris Pourroy
+561,1361,144831,3,Shi Hong Zeng
+562,1362,209080,3,Blaise Bicknell
+563,1362,106156,3,Sebastien Boltz
+564,1362,106184,3,Hong Chung
+565,1362,133415,3,Tuki Jacobs
+566,1362,207404,3,Miles Jones
+567,1362,209918,3,Hanwen Li
+568,1362,200403,3,Patrik Nema
+569,1362,111199,3,Markus Schultz
+570,1362,105079,3,Ivan Sergeyev
+571,1362,209171,3,Thantub Suksumrarn
+572,1362,207200,3,Cyril Vandermeersch
+573,1373,200660,3,Thomas Bosancic
+574,1373,133880,3,Thomas Deschamps
+575,1373,144882,3,Rodrigo Echavarria
+576,1373,103220,3,Oh Hee Kwon
+577,1373,133875,3,Mason Recci
+578,1373,200531,3,Gianni Ross
+579,1379,106350,3,Andre Gaspar Murta
+580,1379,111792,3,Young Seok Kim
+581,1379,208421,3,Lilian Marmousez
+582,1379,208457,3,Radu Mihai Papoe
+583,1379,209203,3,Evgeny Philippov
+584,1379,144765,3,Loic Ratsaratany
+585,1379,208132,3,Noah Schachter
+586,1379,207216,3,Yunosuke Tanaka
+587,1387,122537,3,Manuel Barros
+588,1387,208188,3,Jaime Caldes
+589,1387,209110,3,Agustin Maria Gascia
+590,1387,208123,3,Tom Hands
+591,1387,105958,3,Richard Muzaev
+592,1387,202101,3,Benjamin Niv
+593,1387,209281,3,Dylan Salton
+594,1387,207997,3,Len Schouten
+595,1387,105812,3,David Agung Susanto
+596,1387,207814,3,Luciano Tacchi
+597,1387,200564,3,Gilad Tamar
+598,1398,133185,3,Pol Amoros Ramos
+599,1398,144730,3,Tomohiro Masabayashi
+600,1398,104473,3,Walter Trusendi
+601,1401,207861,3,Lorenzo Brunetti
+602,1401,110771,3,Jatin Dahiya
+603,1401,128041,3,Marco De Rossi
+604,1401,126854,3,Tristan Meraut
+605,1401,207616,3,Oscar Moraing
+606,1401,137723,3,Jordan Parker
+607,1401,140014,3,Joseph Imeh Ubon
+608,1408,124095,3,Ameur Ben Hassen
+609,1408,200592,3,Xavier Gabarro
+610,1408,207387,3,Juan Pablo Grassi Mazzuchi
+611,1408,207331,3,Vladislav Melnic
+612,1408,208249,3,Gian Marco Ortenzi
+613,1413,208566,3,Mauro De Maio
+614,1413,126144,3,Scott Duncan
+615,1413,200244,3,Mats Hermans
+616,1413,208659,3,Giovanni Mpetshi Perricard
+617,1413,206272,3,Alessandro Procopio
+618,1413,133933,3,Thomas Yaka Kofi Setodji
+619,1413,202260,3,Henri Squire
+620,1413,127443,3,Andres Urrea
+621,1413,206489,3,Paul Valsecchi
+622,1413,208040,3,Logan Zapp
+623,1423,208039,3,Ronald Hohmann
+624,1424,206056,3,Luke Jacob Gamble
+625,1425,130247,3,Anton Chekhov
+626,1425,208314,3,Mayeul Darras
+627,1425,207401,3,Sheil Kotecha
+628,1425,126308,3,Alexandru Vasile Manole
+629,1425,106041,3,Stefan Micov
+630,1425,104908,3,Mikal Oliver Statham
+631,1431,202346,3,Ben Jones
+632,1431,111772,3,Krittin Koaykul
+633,1433,120982,3,Jose Daniel Bendeck
+634,1433,126216,3,Alexander Klintcharov
+635,1433,207391,3,Michal Mikula
+636,1433,126199,3,Yvo Panak
+637,1433,208138,3,Samuel Puskar
+638,1433,200283,3,Zakhar Trapeznikov
+639,1433,208845,3,Yeudy Villar
+640,1440,202157,3,Amaury Delmas
+641,1441,200445,3,Maxence Beauge
+642,1441,207788,3,Thanapet Chanta
+643,1441,122372,3,Alexander Jhun
+644,1441,200130,3,Alexander Ovcharov
+645,1441,202120,3,Rowland Phillips
+646,1441,208866,3,Leonid Sheyngezikht
+647,1447,206716,3,Lukas Hellum Lilleengen
+648,1448,209248,3,Amr Asrawy
+649,1448,127166,3,Alessandro Ceppellini
+650,1448,207160,3,Jake Hersey
+651,1448,202349,3,Kai Lemstra
+652,1452,206714,3,Jack Gibbens
+653,1452,200663,3,James Ibrahim
+654,1452,202345,3,Arvid Nordquist
+655,1452,207990,3,Moritz Thiem
+656,1456,106182,3,Dante Gennaro
+657,1456,126087,3,George Goldhoff
+658,1456,206642,3,Yassir Kilani
+659,1456,134052,3,Anatoliy Petrenko
+660,1456,144919,3,Yann Wojcik
+661,1461,207368,3,Mert Alkaya
+662,1461,200389,3,Piotr Matuszewski
+663,1461,208168,3,Nicolas Tepmahc
+664,1464,144986,3,Agustin Riquelme
+665,1465,206137,3,Andrej Glvac
+666,1466,126271,2,Gianluca Beghi
+667,1466,200323,2,Loic Cloes
+668,1466,144848,2,Sergio Luis Hernandez Ramirez
+669,1466,200347,2,Luca Keist
+670,1466,208685,2,Ivailo Keremedchiev
+671,1466,121779,2,Lukas Ollert
+672,1466,106150,2,Jeson Patrombon
+673,1466,105623,2,Costin Paval
+674,1466,110539,2,Wil Spencer
+675,1466,209901,2,Alexander Stepin
+676,1466,209395,2,George Stoupe
+677,1466,208142,2,Toby D Boyer
+678,1878,208142,1,Toby D Boyer
+679,1466,202224,2,Robertas Vrzesinski
+680,1479,134276,2,Jacob Brumm
+681,1479,209928,2,Kalin Ivanovski
+682,1479,126324,2,Jianhui Li
+683,1479,145008,2,Hugo Pierre
+684,1479,123843,2,Davide Pontoglio
+685,1479,200559,2,Faisal Qamar
+686,1479,129911,2,Marat Sharipov
+687,1479,109043,2,Sergey Shipilov
+688,1479,202113,2,Hikaru Shiraishi
+689,1479,209916,2,Marko Topo
+690,1479,208898,2,Juan Sebastian Zabala Vargas
+691,1490,206782,2,Demetris Azoides
+692,1490,209407,2,Max Basing
+693,1490,134039,2,Ahmed Chaudary
+694,1490,200511,2,Lance Pierre Du Toit
+695,1490,208693,2,Eric Hadigian
+696,1490,202172,2,Carson Haskins
+697,1490,206657,2,Christian Lerby
+698,1490,105726,2,Yannik Reuter
+699,1490,204970,2,Jordan Smith
+700,1490,105542,2,Bastian Trinker
+701,1500,138431,2,Darko Bojanovic
+702,1500,209059,2,Vuk Budic
+703,1500,209242,2,Ilarion Danilchenko
+704,1500,209413,2,Joshua Dous Karpenschif 
+705,1500,208050,2,Alexander Gaponenko
+706,1500,202234,2,Savva Polukhin
+707,1500,200289,2,Mathieu Scaglia
+708,1500,209403,2,Faris Zakaryia
+709,1508,133550,2,Davide Albertoni
+710,1508,209340,2,Pablo Alemany
+711,1508,207757,2,Santiago Bramajo
+712,1508,208603,2,Cleeve Harper
+713,1508,207665,2,Mischa Lanz
+714,1508,132209,2,Daniel Little
+715,1508,105788,2,Jakob Sude
+716,1508,138652,2,Hugo Voljacques
+717,1508,104070,2,Jesse Witten
+718,1508,208001,2,Tamaki Yamao
+719,1518,123965,2,Rodrigo Banzer
+720,1518,207771,2,Christian Didier Chin
+721,1520,144815,2,Alexander Boborykin
+722,1520,124147,2,Franco Capalbo
+723,1520,207344,2,Pasquale De Giorgio
+724,1520,106248,2,Edoardo Eremin
+725,1520,202445,2,Joshua Howard Tripp
+726,1520,208082,2,Edward Hubner
+727,1520,201987,2,Masamichi Imamura
+728,1520,206797,2,Jiri Jenicek
+729,1520,137618,2,Stephen Kaldawi
+730,1520,208641,2,Jason Kros
+731,1520,207998,2,Takuya Kumasaka
+732,1520,138758,2,Daniel Mora
+733,1520,105780,2,Victor Nunez
+734,1520,207972,2,Minjong Park
+735,1520,209097,2,Mihailo Popovic
+736,1520,122642,2,Giovanni Rizzuti
+737,1520,202414,2,Alexandre Rotsaert
+738,1520,202404,2,Alvaro Saez Royuela Ariza
+739,1520,133810,2,Sprithvi Sekhar
+740,1520,125799,2,Artur Shakhnubaryan
+741,1520,206450,2,Antonin Stepanek
+742,1520,208179,2,Roland Stuurman
+743,1520,110708,2,Luca George Tatomir
+744,1520,208450,2,Mark Tryakshin
+745,1520,200473,2,Valentin Vacherot
+746,1520,209414,2,Luca Van Assche
+747,1546,207229,2,Martin Breysach
+748,1546,207340,2,Daniel Paty
+749,1548,207957,2,Jiri Barnat
+750,1548,144834,2,Constant De La Bassetiere
+751,1548,105111,2,Ivan Endara
+752,1548,209247,2,Axel Garcian
+753,1548,208185,2,Michael Gloeckler
+754,1548,208124,2,Runyu Zhao
+755,1548,202421,2,George Houghton
+756,1548,133979,2,Hasan Ibrahim
+757,1548,208371,2,Niccolo Inserra
+758,1548,111183,2,Chayanon Kaewsuto
+759,1548,200161,2,Taha Kapadia
+760,1548,208036,2,Maxim Krapivin
+761,1548,208153,2,Giuseppe La Vela
+762,1548,138791,2,Hugo Largo
+763,1548,123915,2,Arturs Lazdins
+764,1548,105050,2,Michael Look
+765,1548,208295,2,Kevin Major
+766,1548,208319,2,Sebastian Murillo
+767,1548,207808,2,Joao Marcos Nusdeo
+768,1548,105510,2,Neil Pauffley
+769,1548,208333,2,Neel Rajesh
+770,1548,207587,2,Martins Rocens
+771,1548,126598,2,Igor Saveljic
+772,1548,206576,2,Fletcher Scott
+773,1548,200365,2,Christian Seraphim
+774,1548,208241,2,Danil Spasibo
+775,1548,208285,2,Fausto Tabacco
+776,1548,208581,2,Noah Thurner
+777,1548,202308,2,Henrik Traskin
+778,1548,104615,2,Ranjeet Virali Murugesan
+779,1548,208049,2,Emilien Voisin
+780,1548,208355,2,Lodewijk Weststrate
+781,1580,208294,2,Federico Campana
+782,1580,209117,2,Marco Furlanetto
+783,1582,127175,2,Damien Bayard
+784,1582,105456,2,Sergio Galdos
+785,1582,202116,2,Grigoriy Korobeynikov
+786,1582,208353,2,Francesco Maestrelli
+787,1582,209208,2,Kristof Minarik
+788,1582,111781,2,Janis Podzus
+789,1582,208597,2,Chak Lam Coleman Wong
+790,1589,207883,2,Guillaume Dermiens
+791,1589,122346,2,Riaan Du Toit
+792,1591,200050,2,Finn Bass
+793,1591,133218,2,Andrea Borroni
+794,1591,144833,2,Andres Gabriel Ciurletti
+795,1591,128056,2,Paolo Dagnino
+796,1591,208184,2,Riccardo Di Nocera
+797,1591,124296,2,Martin Dimitrov
+798,1591,121604,2,Luciano Doria
+799,1591,127143,2,Jirat Navasirisomboon
+800,1591,122617,2,Suraj R Prabodh
+801,1591,200340,2,Nicholas Shamma
+802,1591,208301,2,Gustaf Strom
+803,1591,208190,2,Davide Tortora
+804,1591,202292,2,Mate Voros
+805,1604,134389,2,Tim Handel
+806,1604,125572,2,Hillel Rousseau
+807,1606,208915,2,Gleb Blekher
+808,1606,123963,2,Sebastian Eguez
+809,1606,207527,2,Buvaysar Gadamauri
+810,1606,132126,2,William Ma
+811,1606,125843,2,Ren Nakamura
+812,1606,207327,2,Frane Nincevic
+813,1606,200343,2,David Szintai
+814,1606,207578,2,Leonardo Taddia
+815,1614,122310,2,Pavle Daljev
+816,1614,106384,2,Or Ram Harel
+817,1616,127168,2,Vladimir Filip
+818,1616,206405,2,Patrick Foley
+819,1616,202287,2,Roi Ginat
+820,1616,207776,2,William Grant
+821,1616,207233,2,Nemanja Malesevic
+822,1616,121393,2,Ricardo David Mayagoitia
+823,1616,134398,2,Dominik Nazaruk
+824,1616,111462,2,Ken Onishi
+825,1616,126683,2,Kento Tagashira
+826,1625,202220,2,Nicolas Bruna
+827,1625,134217,2,Skyler Butts
+828,1625,202354,2,Matthew Dellavedova
+829,1625,208189,2,Gianmarco Ferrari
+830,1625,105855,2,Mousheg Hovhannisyan
+831,1625,207256,2,Admir Kalender
+832,1625,127147,2,Woravin Kumthonkittikul
+833,1625,127087,2,Dominik Recek
+834,1633,126882,2,Gregorio Cordonnier
+835,1634,128065,2,Stefano Baldoni
+836,1634,122257,2,Esteban Bruna
+837,1634,208156,2,Terence Das
+838,1634,125818,2,Shahar Elbaz
+839,1638,106262,2,Boris Arias
+840,1639,206447,2,Daniel Batista
+841,1639,126178,2,Pedro Iamachkine
+842,1639,144907,2,Adrian Oetzbach
+843,1642,208186,2,Preston Brown
+844,1643,207307,2,Anze Arh
+845,1644,133074,1,Sherif Abohabaga
+846,1644,209254,1,Valerio Aboian
+847,1644,144760,1,Amine Ahouda
+848,1644,208772,1,Benjamin L Ambrosio
+849,1644,207813,1,Robbie Arends
+850,1644,208918,1,Japheth Anwasiba Bagerbaseh
+851,1644,208073,1,Razvan Baiant
+852,1644,209124,1,Blu Baker
+853,1644,209889,1,Thomas Braithwaite
+854,1644,208684,1,Emilien Burnel
+855,1644,109486,1,Alberto Cammarata
+856,1644,202159,1,Brian Cernoch
+857,1644,209936,1,Lorenzo Claverie
+858,1644,200437,1,Rrezart Cungu
+859,1644,206027,1,Paras Dahiya
+860,1644,208911,1,Andrew Dale
+861,1644,200027,1,Blazo N Djurovic
+862,1644,134409,1,Linus Erhart
+863,1644,209392,1,Reece Falck
+864,1644,202360,1,Johannes Fleischmann
+865,1644,209091,1,Bradley Frye
+866,1644,127066,1,Washi Gervais
+867,1644,207342,1,Teodor Giusca
+868,1644,206764,1,Mateo Gomez
+869,1644,209384,1,Biagio Gramaticopolo
+870,1644,104587,1,Claudio Grassi
+871,1644,208223,1,Alvaro Guillen Meza
+872,1644,208083,1,Adam Heinonen
+873,1644,208926,1,Cameron Henricy Trigolos
+874,1644,206905,1,Louis Herman
+875,1644,134028,1,Samuel Hodor
+876,1644,104852,1,Yannick Jankovits
+877,1644,200444,1,Igor Karpovets
+878,1644,209144,1,Hayato Kudo
+879,1644,208444,1,Raphael Lambling
+880,1644,209296,1,Alejandro Licea
+881,1644,121167,1,Hyung Chan Lim
+882,1644,209105,1,Lucas Luini
+883,1644,209202,1,Maurus Malgiaritta
+884,1644,126357,1,Oscar Mancineiras Cornella
+885,1644,121942,1,Juraj Masar
+886,1644,126088,1,Plamen Milushev
+887,1644,209939,1,Lluc Mir Anglada
+888,1644,209284,1,Elmer Moller
+889,1644,208818,1,Finn Murgett
+890,1644,124013,1,Eduardo Nava
+891,1644,209271,1,Eric Jr Olivarez
+892,1644,133098,1,Cosmin Ontica
+893,1644,132831,1,Giovanni Oradini
+894,1644,132917,1,Jun Sang Park
+895,1644,209185,1,Alessandro Pecci
+896,1644,209914,1,Andreja Petrovic
+897,1644,208541,1,Luke Phillips
+898,1644,209251,1,Stefan Popovic
+899,1644,205703,1,Lilian Prodhomme
+900,1644,200272,1,Jean Jacques Rakotohasy
+901,1644,200446,1,Alejandro Reguant
+902,1644,209917,1,Benito Sanchez Martinez
+903,1644,134000,1,Philipp Schroll
+904,1644,209100,1,Julian Schubert
+905,1644,122392,1,Rene Schulte
+906,1644,132586,1,Carlos Andres Sepulveda Navarro
+907,1644,208586,1,Joshua Sheehy
+908,1644,208716,1,Aly Shokeir
+909,1644,206418,1,Macsen Sisam
+910,1644,144861,1,Stefan Skadarka
+911,1644,206171,1,Barnaby Smith
+912,1644,134127,1,Igor Solomatin
+913,1644,202075,1,Adria Soriano Barrera
+914,1644,121004,1,Shunrou Takeshima
+915,1644,209061,1,Shota Tange
+916,1644,201985,1,Jesse Timmermans
+917,1644,209902,1,Igor Trunov
+918,1644,144816,1,Maxim Tybar
+919,1644,207178,1,Joe Tyler
+920,1644,209852,1,Zsombor Velcz
+921,1644,208589,1,Nikita Volonski
+922,1644,209167,1,Olle Wallin
+923,1644,202357,1,Bang Shuo Yin
+924,1644,206888,1,Zhao Zhao
+925,1644,209096,1,Goran Zivotic
+926,1725,108717,1,Francis Casey Alcantara
+927,1725,209398,1,Austin Ansari Ansari
+928,1725,208026,1,Carles Batlle
+929,1725,122027,1,Romain Bauvy
+930,1725,209119,1,Aissa Benchakroun
+931,1725,209907,1,Viacheslav Bielinskyi
+932,1725,209898,1,Dali Blanch
+933,1725,132331,1,Jorge Blanco Guadalupe
+934,1725,104847,1,Adrien Bossel
+935,1725,207545,1,Cesar Bourgois
+936,1725,207730,1,Jacob Bullard
+937,1725,208227,1,Simone Cacciapuoti
+938,1725,209183,1,Luigi Castelletti
+939,1725,209241,1,Leonardo Catani
+940,1725,208187,1,Raul Gerardo Centeno Arteaga
+941,1725,208424,1,Julian Cundom
+942,1725,108710,1,Shendrit Deari
+943,1725,209215,1,Nicolas Demeroutis
+944,1725,209317,1,Vasil Dimitrov
+945,1725,207439,1,Dax Donders
+946,1725,208009,1,Bulat Galiev
+947,1725,209900,1,Oscar Galimardanov
+948,1725,207881,1,Raul Garcia
+949,1725,133467,1,Tomas Gerini
+950,1725,208201,1,Julian Gimenez
+951,1725,118215,1,Mohamed Hassan
+952,1725,208857,1,Carlos Hassey
+953,1725,209138,1,Tuur Heuvinck
+954,1725,202322,1,Erik Holt Crossman
+955,1725,124065,1,Emmanuel Idoko
+956,1725,209240,1,Gunjan Jadhav
+957,1725,105566,1,Shahin Khaledan
+958,1725,105278,1,Alexis Klegou
+959,1725,208461,1,Herman Meeuwes Mattheo Knoop
+960,1725,132694,1,Kris Krawcewicz
+961,1725,202152,1,Christian Lakoseljac
+962,1725,207794,1,Younes Lalami Laaroussi
+963,1725,105586,1,Alexander Lazov
+964,1725,209336,1,Leonardo Lopez Linquet
+965,1725,207165,1,Enrique Luque Rico
+966,1725,209323,1,Jonas Maier
+967,1725,207505,1,Mario Mansilla Diez
+968,1725,126739,1,Leny Mitjana
+969,1725,208315,1,Javier Molino
+970,1725,209112,1,Rodrigo Nicolas Montes De Oca Murillo
+971,1725,207809,1,Khololwam Montsi
+972,1725,207731,1,Brandon Murphy
+973,1725,208183,1,Viktor Nikitin
+974,1725,209137,1,Noppadol Noikor
+975,1725,207783,1,Kosuke Okagaki
+976,1725,208556,1,Carl Bret Parko
+977,1725,208456,1,Stepan Pecak
+978,1725,207738,1,Brandon Perez
+979,1725,208400,1,Moritz Pfaff
+980,1725,133750,1,Petar Pjevcevic
+981,1725,207202,1,Karl Poling
+982,1725,123867,1,Strahinja Rakic
+983,1725,121938,1,Hunter Reese
+984,1725,207832,1,Laelson Rodrigues
+985,1725,105849,1,Rodrigo Sanchez
+986,1725,209848,1,Alejandro Sanchez Gonzalez
+987,1725,106204,1,Nigmat Shofayziev
+988,1725,209076,1,Ethan Denzel Sibanda
+989,1725,208302,1,Nikola Slavic
+990,1725,200588,1,Riley Smith
+991,1725,209186,1,Filip Stipic
+992,1725,208072,1,Daniil Strelchenko
+993,1725,134085,1,Mateusz Terczynski
+994,1725,207826,1,Siim Troost
+995,1725,209288,1,Chrisjan Van Wyk
+996,1725,209088,1,Quinn Vandecasteele
+997,1725,209204,1,Iiro Vasa
+998,1725,202412,1,Francisco Vittar
+999,1725,202367,1,Daniel Vrba
+1000,1725,126971,1,Marcus Walters
+1001,1725,207186,1,Arthur Weber
+1002,1725,209094,1,Jing Long Weng
+1003,1725,104980,1,Anton Zaitsev
+1004,1725,111504,1,Mate Zsiga
+1005,1804,202187,1,Gianluca Acquaroli
+1006,1804,126732,1,Eric Ahren Moonga
+1007,1804,207180,1,Shaheed Alam
+1008,1804,209087,1,Leighton Allen
+1009,1804,126780,1,Abraham Asaba
+1010,1804,202114,1,Philip Bachmaier
+1011,1804,200159,1,Samuel Beren
+1012,1804,201973,1,Alvaro Blanco Damea
+1013,1804,144652,1,William Blumberg
+1014,1804,209270,1,Kevin Chahoud
+1015,1804,208729,1,Yash Chaurasia
+1016,1804,206199,1,Kevin Cheruiyot
+1017,1804,206889,1,Clement Chidekh
+1018,1804,144822,1,Seung Ri Choi
+1019,1804,208532,1,Thiago Cigarran
+1020,1804,111812,1,Clay Crawford
+1021,1804,104003,1,Victor Crivoi
+1022,1804,209062,1,Kamen Damov
+1023,1804,127037,1,Roy Sarut De Valk
+1024,1804,209933,1,Clement Deleersnyder
+1025,1804,209911,1,Guy Den Ouden
+1026,1804,127140,1,Alessandro Dragoni
+1027,1804,208226,1,Gerard Escandell Juan
+1028,1804,206556,1,Lautaro Agustin Falabella
+1029,1804,136749,1,Qun Gao
+1030,1804,200128,1,Sahil Gaware
+1031,1804,106278,1,Vasile Alexandru Ghilea
+1032,1804,208835,1,Rafael Giotis
+1033,1804,207661,1,Andrea Gola
+1034,1804,208605,1,Mario Gonzalez Fernandez
+1035,1804,207677,1,Vladyslav Gorodynskyi
+1036,1804,206873,1,Perry Gregg
+1037,1804,208361,1,Gustavo Heide
+1038,1804,206573,1,Trey Hilderbrand
+1039,1804,122516,1,Lynn Max Kempen
+1040,1804,207456,1,Dong Ju Kim
+1041,1804,206895,1,Alex Kobelt
+1042,1804,208843,1,Jerome Kym
+1043,1804,108749,1,Sergis Kyratzis
+1044,1804,132895,1,Tae Woo Lee
+1045,1804,144738,1,Joshua Luck
+1046,1804,209246,1,Alan Magadan
+1047,1804,206776,1,Pierre Malan
+1048,1804,200202,1,Athanassios Manekas
+1049,1804,202169,1,Colin Markes
+1050,1804,209399,1,Dan Martin
+1051,1804,103902,1,Jan Mertl
+1052,1804,202417,1,Siphosothando Montsi
+1053,1804,207673,1,Antonio Muniz Hidalgo
+1054,1804,200298,1,Adam Nagoudi
+1055,1804,202273,1,Anurag Nenwani
+1056,1804,132073,1,Baker Newman
+1057,1804,209346,1,Stijn Pel
+1058,1804,202204,1,Lisandru Rodriguez
+1059,1804,209048,1,Eduardo Roldan
+1060,1804,200214,1,Alan Fernando Rubio Fierros
+1061,1804,106271,1,Robert Rumler
+1062,1804,208160,1,Sam Ryan Ziegann
+1063,1804,200326,1,Karl Kiur Saar
+1064,1804,206779,1,Masi Sarpola
+1065,1804,209397,1,Emir Sendogan
+1066,1804,209046,1,Atharva Sharma
+1067,1804,207986,1,Kazuki Shimizu
+1068,1804,126643,1,Keivon Tabrizi
+1069,1804,207463,1,Sheng Tang
+1070,1804,209198,1,Gian Luca Tanner
+1071,1804,123986,1,Antun Vidak
+1072,1804,209330,1,Bautista Vilicich
+1073,1804,144927,1,Siddharth Vishwakarma
+1074,1804,133680,1,Huixin Wang
+1075,1804,103980,1,Chris Wettengel
+1076,1804,200375,1,Kento Yamada
+1077,1804,200452,1,Patrick Zahraj
+1078,1804,105342,1,Deni Zmak
+1079,1878,209514,1,Louis Allen
+1080,1878,208459,1,Nevin Arimilli
+1081,1878,104220,1,Adrian Barbu
+1082,1878,120542,1,David Barclay
+1083,1878,208842,1,Joan B Borras Isern
+1084,1878,208715,1,Doru Junior Borsan
+1085,1878,207728,1,Moerani Bouzige
+1086,1878,206871,1,Adam Bronka
+1087,1878,207761,1,Julien De Cuyper
+1088,1878,207793,1,Alec Deckers
+1089,1878,209113,1,Gabriel Diallo
+1090,1878,200581,1,Sylvester Emmanuel
+1091,1878,137948,1,Charles Force
+1092,1878,105523,1,Claudio Fortuna
+1093,1878,200378,1,Lior Goldenberg
+1094,1878,207684,1,Mohamad Gomaa
+1095,1878,138591,1,Gui Gomes
+1096,1878,200616,1,Shinnosuke Hiramatsu
+1097,1878,208837,1,Janmagnus Johnson
+1098,1878,119951,1,Dmytro Kamynin
+1099,1878,122549,1,Christos Keisidis
+1100,1878,209381,1,Daniel Litvinov
+1101,1878,209233,1,Pietro Marino
+1102,1878,123818,1,Jorge Martinez Martinez
+1103,1878,208879,1,Wulfrano Martinez Mora Esdras
+1104,1878,120555,1,Ju Hae Moon
+1105,1878,144937,1,Nicolas Parizzia
+1106,1878,207335,1,Denis Parshutin
+1107,1878,104789,1,Sherif Sabry
+1108,1878,209075,1,Daniil Savelev
+1109,1878,105786,1,Tom Schonenberg
+1110,1878,209338,1,Daniel Siniakov
+1111,1878,122547,1,Ioannis Stergiou
+1112,1878,200420,1,Gokul Suresh
+1113,1878,110754,1,David Vega Hernandez
+1114,1878,209513,1,Pavel Verbin
+1115,1878,207779,1,Eduard Vlasceanu
+1116,1878,121726,1,Bartosz Wojnar
+1117,1878,206334,1,Bingyu Yu
+1118,1919,207441,1,Facundo Arias Bisso
+1119,1919,207967,1,Juan Ignacio Batalla
+1120,1919,200486,1,Roee Benya
+1121,1919,200614,1,Mislav Bosnjak
+1122,1919,209249,1,Lilian Breut
+1123,1919,207772,1,Yuttana Charoenphon
+1124,1919,144745,1,Shohei Chikami
+1125,1919,126321,1,Yu  Hsiang Chiu
+1126,1919,207183,1,Ishaque Eqbal
+1127,1919,207646,1,Roni Mikael Hietaranta
+1128,1919,200065,1,Stamatis Kapiris
+1129,1919,133516,1,Sung Hun Kim
+1130,1919,201903,1,Natthasith Kunsuwan
+1131,1919,206700,1,Dominik Langmajer
+1132,1919,144805,1,Clement Larriere
+1133,1919,208867,1,Tomas Luis
+1134,1919,206669,1,Hugo Maia
+1135,1919,126388,1,Raheel Manji
+1136,1919,206592,1,Ivan Mikhaylyuk
+1137,1919,144658,1,Oscar Gabriel Ortiz
+1138,1919,200606,1,Rayane Oumaouche
+1139,1919,208211,1,Christopher Patzanovsky
+1140,1919,206731,1,Alan Postay
+1141,1919,128140,1,Patric Prinoth
+1142,1919,134430,1,Horst Rieder
+1143,1919,209065,1,Youcef Rihane
+1144,1919,209164,1,Lorenzo Rottoli
+1145,1919,208442,1,Luca Sanchez
+1146,1919,126668,1,Felipe Santamaria
+1147,1919,132706,1,Pavel Shchaya Zubrov
+1148,1919,139052,1,Muzingaye Dickson Andile Sibanda
+1149,1919,200014,1,Digvijaypratap Singh
+1150,1919,209210,1,Ioannis Stamoulos
+1151,1919,126310,1,Eleftherios Theodorou
+1152,1919,206632,1,Tim Van Der Horst
+1153,1919,202228,1,Jordi Walder
+1154,1919,208334,1,Deney Wassermann
+1155,1919,209354,1,Ioannis Xilas
+1156,1957,202311,1,Ran Amar
+1157,1957,208215,1,Artsiom Bardzin
+1158,1957,202163,1,Andrea Bessire
+1159,1957,132704,1,Pelle Boerma
+1160,1957,209125,1,Gaston Erhardt
+1161,1957,208002,1,Mariano Alberto Hasenkopf
+1162,1957,127036,1,Aron Hiltzik
+1163,1957,207378,1,Berk Ilkel
+1164,1957,208386,1,Matt Kuhar
+1165,1957,126263,1,Sanetulla Kutybaev
+1166,1957,200617,1,Emmanuel Luria
+1167,1957,117351,1,Jurence Zosimo Mendoza
+1168,1957,122498,1,Hao Yuan Ng
+1169,1957,207547,1,Bruno Pujol Navarro
+1170,1957,200241,1,Dusan Rajic
+1171,1957,208255,1,Lorenzo Vatteroni
+1172,1957,144803,1,Shunsuke Wakita
+1173,1974,126938,1,Sharobiddin Abzalov
+1174,1974,126201,1,Francesco Bessire
+1175,1974,131910,1,Lucas Bouquet
+1176,1974,200426,1,Felipe Derdoy
+1177,1974,209510,1,Nino Ehrenschneider
+1178,1974,134816,1,Jakob Johansson Holm
+1179,1974,206904,1,Gauthier Onclin
+1180,651,206904,35,Gauthier Onclin
+1181,1974,133638,1,Flemming Peters
+1182,1974,206215,1,Bastien Presuhn
+1183,1974,208182,1,Saba Purtseladze
+1184,1974,207541,1,Michalis Sakellaridis
+1185,1974,208304,1,Rotem Sobol
+1186,1974,132606,1,Emmett Ward
+1187,1974,127165,1,Sheng Hao Zhou
+1188,1988,208152,1,Gabriele Bosio
+1189,1988,208264,1,Carles Hernandez
+1190,1988,126472,1,Gabriele Moghini
+1191,1988,122369,1,Bernardo Saraiva
+1192,1988,206449,1,Ondrej Styler
+1193,1993,208024,1,Max Alcala Gurri
+1194,1993,202233,1,Sergey Bolotov
+1195,1993,144685,1,Javier Naser
+1196,1993,208372,1,Natan Rodrigues
+1197,1993,207367,1,Bora Sengul
+1198,1993,207239,1,Nikolay Vylegzhanin
+1199,1993,144856,1,Georg Winkler
+1200,2000,127606,1,Quentin Gueydan
+1201,2001,122632,1,Ivar Jose Aramburu Contreras
+1202,2001,202339,1,Linus Frost
+1203,2001,202326,1,Ivan Marrero Curbelo
+1204,2004,206594,1,Moritz Trocker
+1205,2005,200636,1,Umut Akkoyun
+1206,2005,134833,1,Alexis Boureau
+1207,101,126149,733,Gianluca Mager
+1208,102,105216,721,Yuichi Sugita
+1209,103,105902,709,James Duckworth
+1210,104,106034,701,Yasutaka Uchiyama
+1211,105,104312,699,Andreas Seppi
+1212,106,105155,698,Pedro Sousa
+1213,107,111794,690,Kamil Majchrzak
+1214,108,125802,681,Ilya Ivashka
+1215,109,144719,671,Jaume Munar
+1216,110,106296,654,Gregoire Barrere
+1217,111,106198,646,Hugo Dellien
+1218,112,106234,642,Aslan Karatsev
+1219,113,200615,631,Alexei Popyrin
+1220,114,106045,608,Denis Kudla
+1221,115,123755,606,Daniel Elahi Galan Riveros
+1222,116,106121,591,Taro Daniel
+1223,117,205734,589,Thiago Seyboth Wild
+1224,118,106000,572,Damir Dzumhur
+1225,119,200624,566,Sebastian Korda
+1226,120,106331,565,Christopher Oconnell
+1227,121,126156,558,Antonie Hoang
+1228,122,105539,548,Evgeny Donskoy
+1229,123,104918,547,Andy Murray
+1230,124,117360,546,Marc Polmans
+1231,125,105487,543,Facundo Bagnis
+1232,126,105649,534,Cedrik Marcel Stebe
+1233,127,200670,519,Jeffrey John Wolf
+1234,128,105432,516,Prajnesh Gunneswaran
+1235,129,207518,514,Lorenzo Musetti
+1236,130,127157,507,Daniel Altmaier
+1237,131,106075,506,Jozef Kovalik
+1238,132,105359,500,Jason Jung
+1239,133,105967,492,Henri Laaksonen
+1240,134,104424,490,Go Soeda
+1241,135,104919,482,Leonardo Mayer
+1242,136,105943,481,Federico Gaio
+1243,137,111576,480,Sumit Nagal
+1244,138,110748,479,Nikola Milojevic
+1245,139,202103,478,Francisco Cerundolo
+1246,140,106214,474,Oscar Otte
+1247,141,207989,464,Carlos Alcaraz Garfia
+1248,142,126535,464,Carlos Taberner
+1249,143,200514,458,Jurij Rodionov
+1250,144,105905,458,Danilo Petrovic
+1251,145,103893,457,Paolo Lorenzi
+1252,146,105376,454,Peter Gojowczyk
+1253,147,144817,447,Marc Andrea Huesler
+1254,148,103333,444,Ivo Karlovic
+1255,149,105614,444,Bradley Klahn
+1256,150,126523,443,Bernabe Zapata Miralles
+1257,151,105841,433,Lorenzo Giustino
+1258,152,105373,432,Martin Klizan
+1259,153,105633,425,Mohamed Safwat
+1260,154,105641,424,Blaz Rola
+1261,155,134868,423,Tallon Griekspoor
+1262,156,122298,423,Botic Van De Zandschulp
+1263,157,105223,415,Juan Martin Del Potro
+1264,158,122669,414,Juan Pablo Varillas Patino Samudio
+1265,159,124116,409,Sebastian Ofner
+1266,160,105877,402,Emilio Gomez
+1267,161,200384,395,Hugo Gaston
+1268,162,105561,393,Alessandro Giannessi
+1269,163,111202,391,Hyeon Chung
+1270,164,126127,391,Benjamin Bonzi
+1271,165,122078,391,Dmitry Popko
+1272,166,105819,389,Guido Andreozzi
+1273,167,126214,389,Alejandro Tabilo
+1274,168,202195,389,Maxime Cressy
+1275,169,111190,389,Zhizhen Zhang
+1276,170,206909,387,Brandon Nakashima
+1277,171,120424,385,Yannick Maden
+1278,172,106109,380,Alex Bolt
+1279,173,105341,379,Thomas Fabbiano
+1280,174,111581,368,Michael Mmoh
+1281,175,106293,368,Kimmer Coppejans
+1282,176,104719,367,Marcel Granollers
+1283,177,105731,365,Steven Diez
+1284,178,126239,365,Arthur Rinderknech
+1285,179,106249,364,Joao Domingues
+1286,180,105406,359,Roberto Marcora
+1287,181,126128,357,Roman Safiullin
+1288,182,106393,356,Frederico Ferreira Silva
+1289,183,104797,354,Denis Istomin
+1290,184,106110,352,Filip Horansky
+1291,185,105208,351,Ernests Gulbis
+1292,186,106408,346,Mario Vilella Martinez
+1293,187,106281,346,Liam Broady
+1294,188,106368,345,Ramkumar Ramanathan
+1295,189,105147,342,Tatsuma Ito
+1296,190,106283,342,Mitchell Krueger
+1297,191,126652,340,Jay Clarke
+1298,192,111453,340,Mikael Torpegaard
+1299,193,110778,338,Joao Lucas Magalhaes Hueb De Menezes
+1300,194,111456,335,Mackenzie Mcdonald
+1301,195,126846,334,Aleksandar Vukic
+1302,196,104586,334,Lukas Rosol
+1303,197,207830,333,Tomas Machac
+1304,198,104898,330,Robin Haase
+1305,199,124014,329,Ernesto Escobedo
+1306,200,105041,329,Lukas Lacko
+1307,201,104660,329,Sergiy Stakhovsky
+1308,202,104678,326,Viktor Troicki
+1309,203,105911,316,Andrea Collarini
+1310,204,111200,314,Elias Ymer
+1311,205,126663,311,Juan Pablo Ficovich
+1312,206,111460,310,Quentin Halys
+1313,207,111790,305,Brayden Schnur
+1314,208,124186,305,Alexandre Muller
+1315,209,109739,300,Maximilian Marterer
+1316,210,126125,299,Maxime Janvier
+1317,211,111505,290,Enzo Couacaud
+1318,212,105952,284,Renzo Olivo
+1319,213,111515,283,Thai Son Kwiatkowski
+1320,214,106288,281,Mathias Bourgue
+1321,215,105011,281,Illya Marchenko
+1322,216,105657,277,Marius Copil
+1323,217,105166,275,Peter Polansky
+1324,218,200484,273,Rudolf Molleker
+1325,219,117356,265,Cem Ilkel
+1326,220,104970,262,Matteo Viola
+1327,221,200611,260,Elliot Benchetrit
+1328,222,104198,258,Guillermo Garcia Lopez
+1329,223,127339,258,Borna Gojo
+1330,224,144645,257,Zdenek Kolar
+1331,225,105074,256,Ruben Bemelmans
+1332,226,103990,255,Tommy Robredo
+1333,227,106005,255,Constant Lestienne
+1334,228,106071,253,Bernard Tomic
+1335,229,126237,253,Gian Marco Moroni
+1336,230,200335,253,Felipe Meligeni Rodrigues Alves
+1337,231,106232,253,Roberto Cid
+1338,232,106302,251,Andrew Harris
+1339,233,104534,249,Dudi Sela
+1340,234,104810,248,Zhe Li
+1341,235,111153,247,Christopher Eubanks
+1342,236,104735,246,Tobias Kamke
+1343,237,106057,243,Facundo Mena
+1344,238,126845,241,Max Purcell
+1345,239,103917,239,Nicolas Mahut
+1346,240,105655,234,Hiroki Moriya
+1347,241,111795,229,Filippo Baldi
+1348,242,109054,228,Daniel Masur
+1349,243,105477,226,Marco Trungelliti
+1350,244,106072,225,Alexey Vatutin
+1351,245,109699,225,Julian Lenz
+1352,246,200265,224,Ulises Blanch
+1353,247,126555,223,Tung Lin Wu
+1354,248,121531,222,Mats Moraing
+1355,249,104291,220,Malek Jaziri
+1356,250,126409,220,Hugo Grenier
+1357,251,111511,219,Noah Rubin
+1358,252,133297,219,Yosuke Watanuki
+1359,253,200095,219,Nicola Kuhn
+1360,254,144642,218,Marcelo Tomas Barrios Vera
+1361,255,106058,217,Jack Sock
+1362,256,144869,216,Tomas Martin Etcheverry
+1363,257,105339,213,Yan Bai
+1364,258,106348,212,Evgeny Karlovskiy
+1365,259,106186,210,Jason Kubler
+1366,260,106423,209,Thanasi Kokkinakis
+1367,261,104460,209,Dustin Brown
+1368,262,200390,209,Kacper Zuk
+1369,263,104386,208,Janko Tipsarevic
+1370,264,104999,208,Mischa Zverev
+1371,265,106353,207,Pedja Krstin
+1372,266,106105,207,Guilherme Clezar
+1373,267,105063,206,Andrea Arnaboldi
+1374,268,106227,205,Ji Sung Nam
+1375,269,200303,205,Pavel Kotov
+1376,270,104629,204,Adrian Menendez Maceiras
+1377,271,106137,204,Tristan Lamasine
+1378,272,104882,203,Blaz Kavcic
+1379,273,104327,196,Steve Darcis
+1380,274,106216,195,Bjorn Fratangelo
+1381,275,104559,195,Teymuraz Gabashvili
+1382,276,109303,194,Stefano Napolitano
+1383,277,117353,193,Duck Hee Lee
+1384,278,126504,191,Andrea Pellegrino
+1385,279,104897,189,Matthias Bachinger
+1386,280,202358,188,Chun Hsin Tseng
+1387,281,105064,185,Thomaz Bellucci
+1388,282,117361,182,Akira Santillan
+1389,283,144972,182,Geoffrey Blancaneaux
+1390,284,105634,180,Viktor Galovic
+1391,285,105810,178,Shuichi Sekiguchi
+1392,286,104997,177,Igor Sijsling
+1393,287,109686,177,Riccardo Bonadio
+1394,288,105985,176,Darian King
+1395,289,123819,176,Goncalo Oliveira
+1396,290,106203,174,Pedro Sakamoto
+1397,291,105751,173,Roberto Ortega Olmedo
+1398,292,126120,172,Nino Serdarusic
+1399,293,105933,171,Roberto Quiroz
+1400,294,104868,170,James Ward
+1401,295,200240,170,Vit Kopriva
+1402,296,127760,167,Lukas Klein
+1403,297,106310,167,Alexander Ritschard
+1404,298,106220,166,Dimitar Kuzmanov
+1405,299,111574,165,Jc Aragone
+1406,300,124154,157,Sasi Kumar Mukund
+1407,301,131905,157,Manuel Guinard
+1408,302,207411,156,Jesper De Jong
+1409,303,207733,154,Jack Draper
+1410,304,110536,154,Kevin King
+1411,305,122351,153,Johannes Haerteis
+1412,306,111192,153,Lucas Miedler
+1413,307,126197,152,Orlando Luz
+1414,308,202104,152,Sebastian Baez
+1415,309,123795,150,Altug Celikbilek
+1416,310,202385,149,Jenson Brooksby
+1417,311,202398,148,Michael Vrbensky
+1418,312,111187,148,Kaichi Uchida
+1419,313,200266,146,Javier Barranco Cosano
+1420,314,144684,145,Alex Molcan
+1421,315,105441,143,John Patrick Smith
+1422,316,131934,142,Andrea Vavassori
+1423,317,105497,142,Jose Hernandez
+1424,318,105051,141,Matthew Ebden
+1425,319,105053,140,Santiago Giraldo
+1426,320,207213,140,Duje Ajdukovic
+1427,321,105872,140,Christian Lindell
+1428,322,105842,138,Di Wu
+1429,323,117358,138,Harry Bourchier
+1430,324,122495,137,Shintaro Imai
+1431,325,132842,136,Julian Ocleppo
+1432,326,106177,136,Oriol Roca Batalla
+1433,327,105385,135,Donald Young
+1434,328,206748,135,Giulio Zeppieri
+1435,329,105806,134,Mirza Basic
+1436,330,126939,133,Khumoun Sultanov
+1437,331,105590,132,Uladzimir Ignatik
+1438,332,104873,131,Aleksandr Nedovyesov
+1439,333,105436,131,Markus Eriksson
+1440,334,144656,131,Corentin Denolly
+1441,335,202122,130,Yuta Shimizu
+1442,336,105514,129,Jeremy Jahn
+1443,337,123896,129,Matija Pecotic
+1444,338,105963,129,Arthur De Greef
+1445,339,125847,129,Jelle Sels
+1446,340,126340,127,Viktor Durasovic
+1447,341,207678,127,Juan Manuel Cerundolo
+1448,342,104729,127,Ivan Nedelko
+1449,343,126190,126,Nicolas Alvarez
+1450,344,106324,125,Vaclav Safranek
+1451,345,105595,124,Dayne Kelly
+1452,346,126646,124,Tim Van Rijthoven
+1453,347,105871,124,Sekou Bangoura
+1454,348,105692,124,Alessandro Bega
+1455,349,200116,124,Camilo Ugo Carabelli
+1456,350,200550,123,Vladyslav Orlov
+1457,351,123828,122,Jan Choinski
+1458,352,104505,122,Konstantin Kravchuk
+1459,353,105091,121,Peter Torebko
+1460,354,208103,120,Jiri Lehecka
+1461,355,207663,120,Nikolas Sanchez Izquierdo
+1462,356,105529,118,Carlos Gomez Herrera
+1463,357,144675,118,Baptiste Crepatte
+1464,358,106032,117,Facundo Arguello
+1465,359,105596,117,Jan Satral
+1466,360,132852,117,Pablo Vivero Gonzalez
+1467,361,126283,116,Yunseong Chung
+1468,362,106290,116,Filip Peliwo
+1469,363,109734,116,Skander Mansouri
+1470,364,111506,116,Maxime Hamou
+1471,365,207797,115,Jonas Forejtek
+1472,366,134792,114,Jules Okala
+1473,367,105738,114,Tsung Hua Yang
+1474,368,123983,113,Nerman Fatic
+1475,369,106265,113,Michael Redlicki
+1476,370,106398,112,Pedro Cachin
+1477,371,133975,111,Benjamin Hassan
+1478,372,106291,111,Luke Saville
+1479,373,122548,111,Edan Leshem
+1480,374,111578,110,Stefan Kozlov
+1481,375,106292,109,Hernan Casanova
+1482,376,105757,109,Sandro Ehrat
+1483,377,144826,109,Aziz Dougaz
+1484,378,126106,109,Ryan Peniston
+1485,379,106187,109,Denis Yevseyev
+1486,380,111584,108,Jeroen Vanneste
+1487,381,106362,108,Laurent Lokoli
+1488,382,202058,108,Thiago Agustin Tirante
+1489,383,144946,108,Rayane Roumane
+1490,384,134840,107,Raul Brancaccio
+1491,385,106006,105,Agustin Velotti
+1492,386,126107,105,Michael Geerts
+1493,387,105938,105,Antoine Escoffier
+1494,388,105654,104,Daniel Nguyen
+1495,389,106165,104,Diego Hidalgo
+1496,390,105747,104,Karim Mohamed Maamoun
+1497,391,105454,103,Brydan Klein
+1498,392,120775,103,Sadio Doumbia
+1499,393,200385,102,Dan Added
+1500,394,202262,102,Filip Cristian Jianu
+1501,395,202197,101,Carlos Gimeno Valero
+1502,396,117365,101,Petros Chrysochos
+1503,397,123768,101,Collin Altamirano
+1504,398,126964,100,Vitaliy Sachko
+1505,399,132686,99,Nuno Borges
+1506,400,111806,99,Fajing Sun
+1507,401,207680,99,Facundo Diaz Acosta
+1508,402,106031,98,Raymond Sarmiento
+1509,403,106361,98,Adam Pavlasek
+1510,404,122638,98,Christopher Heyman
+1511,405,121264,97,Oscar Jose Gutierrez
+1512,406,111436,97,Nick Chappell
+1513,407,105778,97,Tobias Simon
+1514,408,106172,96,Maxime Chazal
+1515,409,106420,95,Gianluigi Quinzi
+1516,410,106380,95,Gonzalo Villanueva
+1517,411,106040,95,Peter Heller
+1518,412,144821,95,Genaro Alberto Olivieri
+1519,413,200677,95,Rio Noguchi
+1520,414,105671,94,Gastao Elias
+1521,415,106273,94,Ronald Slobodchikov
+1522,416,200075,94,Yshai Oliel
+1523,417,126185,93,Evgeny Tyurnev
+1524,418,207609,93,Alexey Zakharov
+1525,419,105585,92,Ze Zhang
+1526,420,110751,92,Sebastian Fanselow
+1527,421,122058,92,Fabrizio Ornago
+1528,422,105679,91,Eduardo Struvay
+1529,423,200031,91,Lucas Catarina
+1530,424,105827,90,Laurynas Grigelis
+1531,425,123847,90,Bogdan Bobrov
+1532,426,144984,90,Artem Dubrivnyy
+1533,427,105960,89,Evan King
+1534,428,207415,89,Daniel Michalski
+1535,429,209506,89,Francesco Forti
+1536,430,126664,89,Manuel Pena Lopez
+1537,431,208004,88,Harold Mayot
+1538,432,105512,88,Alexander Sarkissian
+1539,433,200188,88,Matteo Martineau
+1540,434,106342,87,Martins Podzus
+1541,435,105271,87,Gonzalo Escobar
+1542,436,200267,87,Zizou Bergs
+1543,437,200436,86,Zsombor Piros
+1544,438,126609,86,Patrik Niklas Salminen
+1545,439,111761,86,Benjamin Lock
+1546,440,132482,85,Liam Caruana
+1547,441,126208,85,Yusuke Takahashi
+1548,442,206758,85,Antoine Cornut Chauvinc
+1549,443,104593,84,Daniel Gimeno Traver
+1550,444,133872,84,Enrico Dalla Valle
+1551,445,207608,84,Timofey Skatov
+1552,446,144985,83,Ergi Kirkin
+1553,447,126623,83,Alexander Erler
+1554,448,105656,82,Marcelo Arevalo
+1555,449,105292,82,Alejandro Gonzalez
+1556,450,104297,81,Rogerio Dutra Silva
+1557,451,105031,81,Saketh Myneni
+1558,452,104563,81,Luca Vanni
+1559,453,106311,81,Marko Tepavac
+1560,454,106211,81,Bruno Santanna
+1561,455,200711,81,Nicolas Mejia
+1562,456,123993,81,Lucas Gerch
+1563,457,144923,80,Louis Wessels
+1564,458,200553,80,Alen Avidzba
+1565,459,133018,80,Michail Pervolarakis
+1566,460,144701,80,Mathieu Perchicot
+1567,461,106120,79,Ricardo Ojeda Lara
+1568,462,110600,79,Robert Quentin
+1569,463,106168,79,Sidharth Rawat
+1570,464,145001,79,Evan Furness
+1571,465,200024,78,Makoto Ochi
+1572,466,126878,78,David Poljak
+1573,467,200309,78,Marek Gengel
+1574,468,200647,77,Sho Shimabukuro
+1575,469,126536,77,David Pichler
+1576,470,123921,76,Calvin Hemery
+1577,471,126206,76,Alex Rybakov
+1578,472,111775,76,Evan Hoyt
+1579,473,105181,76,Miljan Zekic
+1580,474,133835,76,Gijs Brouwer
+1581,475,208029,75,Holger Vitus Nodskov Rune
+1582,476,106354,75,Eduard Esteve Lobato
+1583,477,111569,75,Gage Brymer
+1584,478,106425,74,Blake Mott
+1585,479,122471,74,Danylo Kalenichenko
+1586,480,104963,74,Yannick Mertens
+1587,481,105992,73,Ryan Harrison
+1588,482,105714,73,Hugo Nys
+1589,483,111512,73,Johan Sebastien Tatlot
+1590,484,106266,73,Lloyd Glasspool
+1591,485,121497,73,Mircea Alexandru Jecan
+1592,486,126177,73,Strong Kirchheimer
+1593,487,126627,72,Johan Nikles
+1594,488,105899,72,Martin Cuevas
+1595,489,105060,72,Aldin Setkic
+1596,490,145014,71,Thomas Laurent
+1597,491,126533,71,Alvaro Lopez San Martin
+1598,492,200318,71,Yu Hsiou Hsu
+1599,493,202235,71,Jacopo Berrettini
+1600,494,123809,71,Ivan Gakhov
+1601,495,126337,70,Renta Tokuda
+1602,496,110618,70,Elmar Ejupovic
+1603,497,125842,70,Adam Moundir
+1604,498,105578,70,Cristian Rodriguez
+1605,499,202327,70,Marko Miladinovic
+1606,500,126151,70,Pavel Nejedly
+1607,501,110757,69,Jacob Grills
+1608,502,106375,69,Pol Toledo Bague
+1609,503,105668,68,Jerzy Janowicz
+1610,504,106238,68,Andres Artunedo Martinavarr
+1611,505,104523,66,Frederico Gil
+1612,506,122425,66,Rafael Matos
+1613,507,105338,66,Maximiliano Estevez
+1614,508,207546,66,Pol Martin Tiffon
+1615,509,104620,65,Simone Bolelli
+1616,510,105065,65,Tim Smyczek
+1617,511,122109,65,Sanjar Fayziev
+1618,512,126135,65,Jumpei Yamasaki
+1619,513,200228,65,Felix Corwin
+1620,514,200008,64,Alexis Galarneau
+1621,515,126273,64,Jordi Arconada
+1622,516,200572,64,Nick Hardt
+1623,517,105723,63,Andrey Kuznetsov
+1624,518,105438,63,Inigo Cervantes Huegun
+1625,519,111765,63,Evan Song
+1626,520,133045,63,Riccardo Balzerani
+1627,521,106410,63,Jorge Brian Panta Herreros
+1628,522,105868,63,Wilson Leite
+1629,523,206703,62,Paul Jubb
+1630,524,105826,62,Alejandro Gomez Gb42
+1631,525,105974,62,Maverick Banes
+1632,526,126183,62,Mariano Kestelboim
+1633,527,144787,62,Gabriel Petit
+1634,528,200242,62,Mick Veldheer
+1635,529,106117,62,Carlos Boluda Purkiss
+1636,530,125825,62,Matias Zukas
+1637,531,206499,61,Aleksandar Kovacevic
+1638,532,206681,61,Fabian Marozsan
+1639,533,111583,61,Martin Redlicki
+1640,534,106175,61,Ricardo Rodriguez
+1641,535,144973,60,Santiago Fa Rodriguez Taverna
+1642,536,207660,60,Nicholas David Ionel
+1643,537,208021,60,Kyrian Jacquet
+1644,538,105697,60,Marco Bortolotti
+1645,539,105897,60,Alexander Zhurbin
+1646,540,202178,59,Mateus De Carvalho Cardoso Alves
+1647,541,106169,59,Vladyslav Manafov
+1648,542,200374,58,Nicolas Alvarez Varona
+1649,543,206662,58,Georgii Kravchenko
+1650,544,200247,58,Alexandar Lazarov
+1651,545,106352,57,Matias Franco Descotte
+1652,546,200278,57,Simon Carr
+1653,547,132310,57,Tiago Cacao
+1654,548,109334,56,Bastian Malla
+1655,549,144756,56,Jordan Correia Passos Do Carmo
+1656,550,111805,55,Seong Chan Hong
+1657,551,131911,55,Lucas Poullain
+1658,552,126204,55,Gerardo Lopez Villasenor
+1659,553,200216,55,Giovanni Fonio
+1660,554,208071,55,Oleksii Krutykh
+1661,555,134472,54,Antoine Bellier
+1662,556,105534,54,Erik Crepaldi
+1663,557,105954,53,Peter Nagy
+1664,558,207686,53,Alexander Shevchenko
+1665,559,202318,53,Roy Smith
+1666,560,126573,53,Thomas Fancutt
+1667,561,125854,53,Jaume Pla Malfeito
+1668,562,202420,53,Aidan Mchugh
+1669,563,207760,52,Anton Matusevich
+1670,564,202090,52,Adrian Andreev
+1671,565,206307,52,Joao Lucas Reis Da Silva
+1672,566,105132,51,Jurgen Zopp
+1673,567,111508,51,Juan Ignacio Galarza
+1674,568,105626,51,Takanyi Garanganga
+1675,569,105180,51,Daniel Dutra Da Silva
+1676,570,105797,51,Marvin Netuschil
+1677,571,104947,51,Marsel Ilhan
+1678,572,134794,51,Alexis Gautier
+1679,573,105156,51,Federico Zeballos
+1680,574,200346,51,Mats Rosenkranz
+1681,575,200218,50,Mate Valkusz
+1682,576,202275,50,Fermin Tenti
+1683,577,200587,49,Brandon Holt
+1684,578,200532,49,Vasil Kirkov
+1685,579,111197,48,Jonathan Mridha
+1686,580,127326,48,Ben Fatael
+1687,581,105398,48,Adam El Mihdawy
+1688,582,132052,48,Christian Langmo
+1689,583,202181,47,Gilbert Soares Klier Junior
+1690,584,200030,47,Facundo Juarez
+1691,585,207649,47,Savriyan Danilov
+1692,586,105273,47,Mauricio Echazu
+1693,587,208214,47,Arnaud Bovy
+1694,588,105716,46,Tom Jomby
+1695,589,205842,46,Arthur Reymond
+1696,590,122538,46,Nicolas Alberto Arreche
+1697,591,202242,46,Dusty H Boyer
+1698,592,109640,45,Andrea Basso
+1699,593,134457,45,Nicolas Moreno De Alboran
+1700,594,200574,45,Alexander Donski
+1701,595,106223,44,Aleksandre Metreveli
+1702,596,105026,44,Takuto Niki
+1703,597,202209,44,Imanol Lopez Morillo
+1704,598,132999,44,Kai Wehnelt
+1705,599,105163,43,Gleb Sakharov
+1706,600,200039,43,Matthew Christopher Romios
+1707,601,123855,43,Daniele Capecchi
+1708,602,133291,43,Ryota Tanuma
+1709,603,200125,43,Mykyta Mashtakov
+1710,604,106164,43,Tomas Lipovsek Puches
+1711,605,206325,43,Pedro Vives Marcos
+1712,606,202359,42,Marvin Moeller
+1713,607,127300,42,Djurabek Karimov
+1714,608,200632,42,Evan Zhu
+1715,609,202227,42,Petr Nouza
+1716,610,132023,42,Jean Thirouin
+1717,611,202261,41,Otto Virtanen
+1718,612,126193,41,Mark Whitehouse
+1719,613,123812,41,Jose Fco Vidal Azorin
+1720,614,200610,40,Oliver Crawford
+1721,615,105860,40,Tak Khunn Wang
+1722,616,105493,40,Tomislav Brkic
+1723,617,105559,40,Jonathan Eysseric
+1724,618,122536,40,Juan Pablo Paz
+1725,619,200589,39,Sam Riffice
+1726,620,200219,39,John Mcnally
+1727,621,123785,39,Clement Geens
+1728,622,200661,39,Yuki Mochiduki
+1729,623,200666,39,Jie Cui
+1730,624,132837,39,Luca Giacomini
+1731,625,208173,39,Emiliano Maggioli
+1732,626,144932,39,Kristjan Tamm
+1733,627,105892,39,Alexandr Igoshin
+1734,628,200009,38,Benjamin Sigouin
+1735,629,122606,38,Yecong He
+1736,630,106377,38,Robin Stanek
+1737,631,208278,38,Shintaro Mochizuki
+1738,632,126634,38,Lenny Hampel
+1739,633,105178,38,Alexis Musialek
+1740,634,200255,38,Alexander Weis
+1741,635,202105,37,Axel Geller
+1742,636,105349,37,Harri Heliovaara
+1743,637,200518,37,Constantin Schmitz
+1744,638,144742,37,Michal Dembek
+1745,639,105944,36,Juan Sebastian Gomez
+1746,640,105434,36,Ruan Roelofse
+1747,641,106260,36,Pietro Rondoni
+1748,642,105814,36,Maximilian Neuchrist
+1749,643,200672,36,Sergey Fomin
+1750,644,106397,36,Wishaya Trongcharoenchaikul
+1751,645,122321,36,Marat Deviatiarov
+1752,646,207248,36,Naoki Tajima
+1753,647,202127,36,Clement Tabur
+1754,648,105906,35,Kevin Krawietz
+1755,649,104467,35,Lamine Ouahab
+1756,650,126152,35,Ryan Shane
+1757,652,144890,35,Dimitriy Voronin
+1758,653,202199,35,Carlos Sanchez Jover
+1759,654,123851,35,Davide Galoppini
+1760,655,208316,34,Valentin Royer
+1761,656,103708,34,Jaroslav Pospisil
+1762,657,122393,34,Adrian Obert
+1763,658,206091,34,Yan Bondarevskiy
+1764,659,105560,34,Kelsey Stevenson
+1765,660,200176,34,Manish Sureshkumar
+1766,661,126723,34,Denys Klok
+1767,662,111459,34,Arjun Kadhe
+1768,663,144924,33,Patrik Rikl
+1769,664,207457,33,Wojciech Marek
+1770,665,207182,33,Emilio Nava
+1771,666,106252,33,Joao Pedro Sorgi
+1772,667,126512,33,Fabien Reboul
+1773,668,207669,33,Robert Strombachs
+1774,669,104932,33,Kenny De Schepper
+1775,670,200466,33,Alexander Crnokrak
+1776,671,207605,33,Jakub Paul
+1777,672,126092,33,Dennis Uspensky
+1778,673,133603,33,Benjamin Dhoe
+1779,674,200184,33,Andrey Chepelev
+1780,675,106162,32,Franco Agamenone
+1781,676,200516,32,Patrick Kypson
+1782,677,208010,32,Pablo Llamas Ruiz
+1783,678,200007,32,Quentin Folliot
+1784,679,207799,32,Matheus Pucinelli De Almeida
+1785,680,200096,32,Dragos Nicolae Madaras
+1786,681,123854,32,Luke Johnson
+1787,682,201995,32,Cayetano March
+1788,683,200230,31,Alexander Brown
+1789,684,105217,31,Thiemo De Bakker
+1790,685,208014,31,Rinky Hijikata
+1791,686,126758,31,Simon Freund
+1792,687,127032,31,Justin Butsch
+1793,688,131912,31,Ronan Joncour
+1794,689,208322,31,Eric Vanshelboim
+1795,690,105421,31,Michal Konecny
+1796,691,121411,31,Moez Chargui
+1797,692,200418,31,Karl Friberg
+1798,693,105059,31,Kento Takeuchi
+1799,694,207815,31,Guido Ivan Justo
+1800,695,207490,31,Carlos Lopez Montagud
+1801,696,105085,30,Artem Smirnov
+1802,697,111784,30,Gustav Hansson
+1803,698,105691,30,Scott Griekspoor
+1804,699,132054,30,Nathan Ponwith
+1805,700,132495,30,Runhao Hua
+1806,701,106254,30,Calum Puttergill
+1807,702,111788,30,Naoki Nakagawa
+1808,703,125848,30,Niels Lootsma
+1809,704,126464,30,Giorgio Ricca
+1810,705,202321,30,Austin Rapp
+1811,706,207764,30,Ryan Nijboer
+1812,707,105452,30,Francesco Vilardo
+1813,708,106280,30,Maxime Tchoutakian
+1814,709,122533,29,Nam Hoang Ly
+1815,710,206912,29,Stuart Parker
+1816,711,126720,29,Boris Pokotilov
+1817,712,144703,29,Ivan Davydov
+1818,713,200070,29,Kirill Kivattsev
+1819,714,104901,29,Vladimir Ivanov
+1820,715,126442,29,Simone Roncalli
+1821,716,132573,29,Luca Castelnuovo
+1822,717,206746,29,Benjamin Winter Lopez
+1823,718,105302,28,Ante Pavic
+1824,719,104510,28,Stefan Seifert
+1825,720,126129,28,Billy Harris
+1826,721,200220,28,Zeke Clark
+1827,722,208262,28,Alejo Lorenzo Lingua Lavallen
+1828,723,131867,28,Dominik Boehler
+1829,724,106051,28,Shalva Dzhanashia
+1830,725,106360,28,Connor Farren
+1831,726,133820,28,Ignacio Monzon
+1832,727,104978,27,Daniel Brands
+1833,728,202333,27,Keegan Smith
+1834,729,207181,27,Govind Nanda
+1835,730,123920,27,Gregoire Jacq
+1836,731,206553,27,Luca Potenza
+1837,732,122248,27,Peter Kobelt
+1838,733,105587,27,Tom Kocevar Desman
+1839,734,106247,27,Nik Razborsek
+1840,735,200164,27,Jonathan Gray
+1841,736,109737,27,Markos Kalovelonis
+1842,737,124040,27,Colin Sinclair
+1843,738,105895,26,Omar Giacalone
+1844,739,209070,26,Arthur Cazaux
+1845,740,106174,26,Gonzalo Lama
+1846,741,202126,26,Jaimee Floyd Angele
+1847,742,106059,26,Michel Vernier
+1848,743,110647,26,Filip Bergevi
+1849,744,207681,26,Francisco Comesana
+1850,745,125804,26,Brandon Walkin
+1851,746,117362,26,Paul Woerner
+1852,747,144716,26,Oleg Prihodko
+1853,748,202125,26,Benjamin Pietri
+1854,749,111577,25,Jared Donaldson
+1855,750,105300,25,Sergio Gutierrez Ferrol
+1856,751,200329,25,Remy Bertola
+1857,752,134205,25,Alec Adamson
+1858,753,126171,25,Maxim Ratniuk
+1859,754,105682,25,Alessandro Petrone
+1860,755,138485,25,Conner Huertas Del Pino
+1861,756,200297,25,Aziz Ouakaa
+1862,757,200273,24,Hady Habib
+1863,758,208343,24,Andrew Paulson
+1864,759,134120,24,Kuan Yi Lee
+1865,760,122474,24,Guy Orly Iradukunda
+1866,761,105843,24,Ljubomir Celebic
+1867,762,200462,24,Andrea Guerrieri
+1868,763,106261,24,Dennis Novikov
+1869,764,208363,24,Mariano Navone
+1870,765,202440,24,Marco Miceli
+1871,766,123832,24,Bogdan Ionut Apostol
+1872,767,126612,24,Alexander Cozbinov
+1873,768,200594,24,Kristian Lozan
+1874,769,105369,24,Riccardo Maiga
+1875,770,127187,24,Chien Hsun Lo
+1876,771,200595,24,Lorenzo Bocchi
+1877,772,106021,24,Dragos Dima
+1878,773,134384,24,Sebastian Prechtel
+1879,774,106403,23,Albert Alcaraz Ivorra
+1880,775,105088,23,Laurent Rochette
+1881,776,111809,23,Henry Craig
+1882,777,104979,23,Andrey Golubev
+1883,778,208169,23,Titouan Droguet
+1884,779,106327,23,Harrison Adams
+1885,780,208260,23,Zachary Svajda
+1886,781,200250,23,Mehluli Don Ayanda Sibanda
+1887,782,144773,23,Jose Olivares
+1888,783,133844,23,Guy Den Heijer
+1889,784,202150,23,Dan Alexandru Tomescu
+1890,785,207323,23,Simon Yitbarek
+1891,786,202161,23,Bart Stevens
+1892,787,126450,23,Nicolo Turchetti
+1893,788,131951,22,Daniel Cukierman
+1894,789,106328,22,Christian Harrison
+1895,790,208134,22,Luca Nardi
+1896,791,121816,22,Gianluca Di Nicola
+1897,792,126102,22,Nicolae Frunza
+1898,793,202106,22,Juan Bautista Otegui
+1899,794,208013,22,Dane Sweeny
+1900,795,208230,22,Alibek Kachmazov
+1901,796,106322,22,David Perez Sanz
+1902,797,126488,22,Jonas Trinker
+1903,798,122554,22,David Jorda Sanchis
+1904,799,144788,22,Louis Tessa
+1905,800,202277,22,Damien Wenger
+1906,801,109307,22,Luis Faria
+1907,802,103175,21,Toshihide Matsui
+1908,803,126280,21,Aziz Kijametovic
+1909,804,105853,21,Tigre Hank
+1910,805,122571,21,Franco Emanuel Egea
+1911,806,208165,21,Joshua Ortlip
+1912,807,104905,21,Nicolas Barrientos
+1913,808,207383,21,Taisei Ichikawa
+1914,809,207491,21,Sandro Kopp
+1915,810,106390,20,Matteo Donati
+1916,811,105894,20,Javier Marti
+1917,812,134490,20,Justin Roberts
+1918,813,124001,20,Gergely Madarasz
+1919,814,105787,20,Hiroyasu Ehara
+1920,815,116985,20,Petr Michnev
+1921,816,132017,20,Mwendwa Mbithi
+1922,817,111447,20,Takashi Saito
+1923,818,122620,20,Soichiro Moritani
+1924,819,144807,20,Kenneth Raisma
+1925,820,105478,20,Yan Sabanin
+1926,821,200713,20,Federico Iannaccone
+1927,822,207844,20,Tomas Jirousek
+1928,823,144641,20,Ondrej Krstev
+1929,824,126530,20,Peter Bothwell
+1930,825,127973,20,Majed Kilani
+1931,826,105479,20,Alejandro Mendoza
+1932,827,127108,19,Igor Ribeiro Marcondes
+1933,828,202168,19,Ye Cong Mo
+1934,829,126591,19,Jan Zielinski
+1935,830,206470,19,Cezar Cretu
+1936,831,126209,19,Peter Bertran
+1937,832,108772,19,Julius Tverijonas
+1938,833,200145,19,Chukang Wang
+1939,834,133945,19,Calin Manda
+1940,835,122294,19,Gabriele Maria Noce
+1941,836,208069,19,Max Houkes
+1942,837,200441,19,Grigoriy Lomakin
+1943,838,105836,18,Jules Marie
+1944,839,209262,18,Tristan Schoolkate
+1945,840,144681,18,Niki Kaliyanda Poonacha
+1946,841,201945,18,Paul Oosterbaan
+1947,842,105507,18,Cheong Eui Kim
+1948,843,207494,18,Dalibor Svrcina
+1949,844,200708,18,Alessandro Ingarao
+1950,845,104917,18,Anas Fattar
+1951,846,206750,18,Daniil Glinka
+1952,847,132744,18,Alberto Barroso Campos
+1953,848,207603,18,Stefano Battaglino
+1954,849,207968,18,Alexander Lebedev
+1955,850,122113,18,Yurii Dzhavakian
+1956,851,200127,18,Aryan Goveas
+1957,852,200093,18,Luca Prevosto
+1958,853,144797,17,Carl Soderlund
+1959,854,105688,17,Manuel Sanchez
+1960,855,111451,17,Bradley Mousley
+1961,856,123742,17,Martin Beran
+1962,857,200635,17,Nathan Seateun
+1963,858,105296,17,Lorenzo Frigerio
+1964,859,109318,17,Pawel Cias
+1965,860,200465,17,Sem Verbeek
+1966,861,206923,17,Shinji Hazawa
+1967,862,102093,17,Martin Damm
+1968,863,122368,17,Joao Monteiro
+1969,864,105283,17,Gerard Granollers
+1970,865,134376,17,Andrew Watson
+1971,866,132204,17,Matvey Khomentovskiy
+1972,867,106154,17,Duje Kekez
+1973,868,202366,17,Tadeas Paroulek
+1974,869,133450,17,David Volfson
+1975,870,207834,17,Juan Alejandro Hernandez Serrano
+1976,871,138860,16,Haru Inoue
+1977,872,111193,16,Alexander Vasilenko
+1978,873,200321,16,San Hui Sin
+1979,874,209263,16,Matteo Gigante
+1980,875,207925,16,Flavio Cobolli
+1981,876,208119,16,Liam Draxl
+1982,877,200263,16,Vlad Andrei Dancu
+1983,878,105607,16,Gabriel Alejandro Hidalgo
+1984,879,208913,16,Juan Bautista Torres
+1985,880,132041,16,Alfredo Perez
+1986,881,122352,16,Christoph Negritu
+1987,882,144744,16,Kazuki Nishiwaki
+1988,883,124126,16,Sarp Agabigun
+1989,884,126630,16,Ivan Liutarevich
+1990,885,202356,16,Tsung Hao Huang
+1991,886,126629,16,Vladimir Korolev
+1992,887,202148,16,Michiel De Krom
+1993,887,106106,16,George Tsivadze
+1994,889,106321,16,Xin Gao
+1995,890,106132,16,Toby Martin
+1996,891,207129,16,Yanki Erel
+1997,892,202378,16,Ignacio Carou
+1998,893,200059,15,Yibing Wu
+1999,894,207130,15,Matias Soto
+2000,895,103607,15,Victor Estrella
+2001,896,106009,15,Justin Eleveld
+2002,897,105869,15,Gengo Kikuchi
+2003,898,126762,15,Aleksandre Bakshi
+2004,899,209857,15,Leandro Riedi
+2005,900,103565,15,Stephane Robert
